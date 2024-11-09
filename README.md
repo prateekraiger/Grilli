@@ -1,6 +1,6 @@
 # Grilli Restaurant Website
 
-![Grilli Logo](./assets/favicon.svg) 
+![Grilli Logo](favicon.svg) 
 
 ##Table of Contents##
 
