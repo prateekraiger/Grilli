@@ -1,4 +1,4 @@
-**Grilli Restaurant Website**
+# Grilli Restaurant Website
 
 **Table of Contents**
 
