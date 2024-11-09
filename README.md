@@ -1,60 +1,62 @@
-**Grilli Restaurant Website**
-==========================
+# 🍽️ Grilli Restaurant Website
 
 [![Grilli Logo](favicon.svg)](https://grillirestaurant.com)
 
-**Live Website:** [https://grillirestaurant.com](https://grillirestaurant.com)
+**🌐 Live Website:** [grillirestaurant.com](https://grillirestaurant.com)
 
-**Table of Contents**
------------------
+---
+
+## 📚 Table of Contents
 
 1. [Introduction](#introduction)
 2. [Features](#features)
 3. [Technologies Used](#technologies-used)
 4. [Getting Started](#getting-started)
-5. [Contributing](#contributing)
-6. [License](#license)
+5. [Installation](#installation)
+6. [Usage](#usage)
+7. [Contributing](#contributing)
+8. [License](#license)
 
-**Introduction**
----------------
+---
 
-Grilli Restaurant Website is a modern web application designed to provide a seamless dining experience for customers. The website offers a wide range of features, including menu management, a reservation system, a contact form, and more. Our goal is to provide a user-friendly interface that makes it easy for customers to find and order their   favorite dishes.
+## 🥗 Introduction
 
-**Features**
-------------
+Welcome to the **Grilli Restaurant Website**! This modern web application is designed to provide a seamless dining experience for customers. With features like menu management, a reservation system, and a contact form, we aim to create a user-friendly interface that makes it easy for customers to find and order their favorite dishes.
 
-### Responsive Design
+---
 
-The website is designed to be responsive, ensuring that it looks great on all devices, including desktops, laptops, tablets, and mobile phones.
+## ✨ Features
 
-### Menu Management
+### 📱 Responsive Design
+- Optimized for all devices: desktops, laptops, tablets, and mobile phones.
 
-Easily manage your menu items, including adding, editing, and deleting dishes.
+### 🍽️ Menu Management
+- Effortlessly manage your menu items, including adding, editing, and deleting dishes.
 
-### Reservation System
+### 📅 Reservation System
+- Allow customers to make reservations online with options for date, time, and number of guests.
 
-Allow customers to make reservations online, with options to choose date, time, and number of people.
+### 📞 Contact Form
+- Easy access for customers to reach out with questions or feedback.
 
-### Contact Form
+### 🏠 About Page
+- Showcase your restaurant's story, mission, and values.
 
-Provide a contact form for customers to reach out to your restaurant with questions or feedback.
+### 🌟 Home Page
+- Features a hero section with a call-to-action and a showcase of your menu items.
 
-### About Page
+---
 
-Showcase your restaurant's story, mission, and values.
+## 🛠️ Technologies Used
 
-### Home Page
+- **HTML5**: For structuring the content on the web.
+- **CSS3**: For styling and layout.
+- **JavaScript**: For interactivity and dynamic content.
 
-Display a hero section with a call-to-action, as well as a showcase of your menu items.
+---
 
-**Technologies Used**
---------------------
+## 🚀 Getting Started
 
-* **HTML5**: For structuring the content on the web.
-* **CSS3**: For styling and layout.
-* **JavaScript**: For interactivity and dynamic content.
-
-**Getting Started**
 ------------------
 
 To get started with Grilli Restaurant Website, follow these steps:
@@ -62,7 +64,7 @@ To get started with Grilli Restaurant Website, follow these steps:
 1. Clone the repository: `git clone https://github.com/prateekraiger/Grilli-Restaurant-Website.git`
 2. Install dependencies: `npm install`
 
-**Installation**
+## 🔧 Installation
 --------------- 
 
 To install Grilli Restaurant Website, follow these steps:
@@ -72,7 +74,7 @@ To install Grilli Restaurant Website, follow these steps:
 3. Create a new file named `.env` in the root directory and add your environment variables.
 4. Start the development server: `npm start`
 
-**Usage**
+## 🌐 Usage
 --------
 
 To use Grilli Restaurant Website, follow these steps:
@@ -82,12 +84,12 @@ To use Grilli Restaurant Website, follow these steps:
 3. Click on the "Reservation" tab to make a reservation.
 4. Click on the "Contact" tab to send a message to the restaurant.
 
-**Contributing**
+## 🤝 Contributing
 ---------------
 
 We welcome contributions to Grilli Restaurant Website! If you'd like to contribute, please fork the repository and submit a pull request.
 
-**License**
+## 📜 License
 ----------
 
 Grilli Restaurant Website is licensed under the Apache 2.0 License.
