@@ -63,7 +63,7 @@ To get started with Grilli Restaurant Website, follow these steps:
 2. Install dependencies: `npm install`
 
 **Installation**
----------------
+--------------- 
 
 To install Grilli Restaurant Website, follow these steps:
 
