@@ -1,4 +1,4 @@
-# 🍽[![Grilli Logo](favicon.svg)](https://grillirestaurant.com) Grilli Restaurant Website
+# [![Grilli Logo](favicon.svg)](https://grillirestaurant.com) Grilli Restaurant Website
 
 
 
