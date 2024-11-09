@@ -1,6 +1,6 @@
-# Grilli Restaurant Website
+# ![Grilli Logo](favicon.svg)  Grilli Restaurant Website
 
-![Grilli Logo](favicon.svg) 
+##Live WebSite : ##
 
 ##Table of Contents##
 
