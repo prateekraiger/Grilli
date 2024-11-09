@@ -30,14 +30,14 @@ Grilli Restaurant Website is a modern web application designed to provide a seam
 - ##CSS3##: For styling and layout.
 - ##JavaScript##: For interactivity and dynamic content.
 
-##Getting Started##
+## Getting Started
 
 To get started with Grilli Restaurant Website, follow these steps:
 
 1. Clone the repository: `git clone https://github.com/your-username/Grilli-Restaurant-Website.git`
 2. Install dependencies: `npm install`
 
-##Installation##
+## Installation
 
 To install Grilli Restaurant Website, follow these steps:
 
@@ -46,7 +46,7 @@ To install Grilli Restaurant Website, follow these steps:
 3. Create a new file named `.env` in the root directory and add your environment variables.
 4. Start the development server: `npm start`
 
-##Usage##
+## Usage
 
 To use Grilli Restaurant Website, follow these steps:
 
@@ -55,11 +55,11 @@ To use Grilli Restaurant Website, follow these steps:
 3. Click on the "Reservation" tab to make a reservation.
 4. Click on the "Contact" tab to send a message to the restaurant.
 
-##Contributing##
+## Contributing
 
 We welcome contributions to Grilli Restaurant Website! If you'd like to contribute, please fork the repository and submit a pull request.
 
-##License##
+## License
 
 Grilli Restaurant Website is licensed under the Apache 2.0 License.
 
