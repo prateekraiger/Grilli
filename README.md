@@ -18,7 +18,7 @@
 **Introduction**
 ---------------
 
-Grilli Restaurant Website is a modern web application designed to provide a seamless dining experience for customers. The website offers a wide range of features, including menu management, a reservation system, a contact form, and more. Our goal is to provide a user-friendly interface that makes it easy for customers to find and order their favorite dishes.
+Grilli Restaurant Website is a modern web application designed to provide a seamless dining experience for customers. The website offers a wide range of features, including menu management, a reservation system, a contact form, and more. Our goal is to provide a user-friendly interface that makes it easy for customers to find and order their   favorite dishes.
 
 **Features**
 ------------
