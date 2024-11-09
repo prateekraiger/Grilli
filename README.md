@@ -1,8 +1,9 @@
 # ![Grilli Logo](favicon.svg)  Grilli Restaurant Website
 
-##Live WebSite : ##
+## Live WebSite : 
+  
 
-##Table of Contents##
+## Table of Contents
 
 1. [Introduction](#introduction)
 2. [Features](#features)
