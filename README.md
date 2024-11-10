@@ -2,7 +2,7 @@
 
 
 
-**🌐 Live Website:** [grillirestaurant.com]([https://grillirestaurant.com](https://prateekraiger.github.io/Grilli/))
+**🌐 Live Website:** [Grilli.com](https://prateekraiger.github.io/Grilli/)
 
 ---
 
