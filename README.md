@@ -85,7 +85,7 @@ To use Grilli Restaurant Website, follow these steps:
 4. Click on the "Contact" tab to send a message to the restaurant.
 
 ## 🤝 Contributing
----------------
+--------------
 
 We welcome contributions to Grilli Restaurant Website! If you'd like to contribute, please fork the repository and submit a pull request.
 
