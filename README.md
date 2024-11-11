@@ -1,6 +1,6 @@
 # [![Grilli Logo](favicon.svg)](https://grillirestaurant.com) Grilli Restaurant Website
 
-![](./assets/images/)]
+![](./assets/images/event-3.jpg)]
 
 **🌐 Live Website:** [Grilli.com](https://prateekraiger.github.io/Grilli/)
 
