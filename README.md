@@ -61,7 +61,7 @@ Welcome to the **Grilli Restaurant Website**! This modern web application is des
 
 To get started with Grilli Restaurant Website, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/prateekraiger/Grilli-Restaurant-Website.git`
+1. Clone the repository: `git clone https://github.com/prateekraiger/Grilli.git`
 2. Install dependencies: `npm install`
 
 ## 🔧 Installation
@@ -69,7 +69,7 @@ To get started with Grilli Restaurant Website, follow these steps:
 
 To install Grilli Restaurant Website, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/prateekraiger/Grilli-Restaurant-Website.git`
+1. Clone the repository: `git clone https://github.com/prateekraiger/Grilli.git`
 2. Install dependencies: `npm install`
 3. Create a new file named `.env` in the root directory and add your environment variables.
 4. Start the development server: `npm start`
@@ -79,7 +79,7 @@ To install Grilli Restaurant Website, follow these steps:
 
 To use Grilli Restaurant Website, follow these steps:
 
-1. Open your web browser and navigate to `http://localhost:3000` to view the website.
+1. Open your web browser and navigate to view the website.
 2. Click on the "Menu" tab to view the menu items.
 3. Click on the "Reservation" tab to make a reservation.
 4. Click on the "Contact" tab to send a message to the restaurant.
