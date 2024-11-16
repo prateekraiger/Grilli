@@ -19,7 +19,7 @@
 
 ---
 
-## 🥗 Introduction
+##  Introduction
 
 Welcome to the **Grilli Restaurant Website**! This modern web application is designed to provide a seamless dining experience for customers. With features like menu management, a reservation system, and a contact form, we aim to create a user-friendly interface that makes it easy for customers to find and order their favorite dishes.
 
@@ -47,7 +47,7 @@ Welcome to the **Grilli Restaurant Website**! This modern web application is des
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - **HTML5**: For structuring the content on the web.
 - **CSS3**: For styling and layout.
