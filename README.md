@@ -6,7 +6,7 @@
 
 ---
 
-## 📚 Table of Contents
+##  Table of Contents
 
 1. [Introduction](#introduction)
 2. [Features](#features)
@@ -25,24 +25,24 @@ Welcome to the **Grilli Restaurant Website**! This modern web application is des
 
 ---
 
-## ✨ Features
+##  Features
 
-### 📱 Responsive Design
+### Responsive Design
 - Optimized for all devices: desktops, laptops, tablets, and mobile phones.
 
-### 🍽️ Menu Management
+###  Menu Management
 - Effortlessly manage your menu items, including adding, editing, and deleting dishes.
 
-### 📅 Reservation System
+###  Reservation System
 - Allow customers to make reservations online with options for date, time, and number of guests.
 
-### 📞 Contact Form
+###  Contact Form
 - Easy access for customers to reach out with questions or feedback.
 
-### 🏠 About Page
+###  About Page
 - Showcase your restaurant's story, mission, and values.
 
-### 🌟 Home Page
+###  Home Page
 - Features a hero section with a call-to-action and a showcase of your menu items.
 
 ---
@@ -55,7 +55,7 @@ Welcome to the **Grilli Restaurant Website**! This modern web application is des
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ------------------
 
@@ -64,7 +64,7 @@ To get started with Grilli Restaurant Website, follow these steps:
 1. Clone the repository: `git clone https://github.com/prateekraiger/Grilli.git`
 2. Install dependencies: `npm install`
 
-## 🔧 Installation
+##  Installation
 --------------- 
 
 To install Grilli Restaurant Website, follow these steps:
@@ -74,7 +74,7 @@ To install Grilli Restaurant Website, follow these steps:
 3. Create a new file named `.env` in the root directory and add your environment variables.
 4. Start the development server: `npm start`
 
-## 🌐 Usage
+##  Usage
 --------
 
 To use Grilli Restaurant Website, follow these steps:
@@ -84,12 +84,12 @@ To use Grilli Restaurant Website, follow these steps:
 3. Click on the "Reservation" tab to make a reservation.
 4. Click on the "Contact" tab to send a message to the restaurant.
 
-## 🤝 Contributing
+## Contributing
 --------------
 
 We welcome contributions to Grilli Restaurant Website! If you'd like to contribute, please fork the repository and submit a pull request.
 
-## 📜 License
+##  License
 ----------
 
 Grilli Restaurant Website is licensed under the [Apache 2.0 License](http://www.apache.org/licenses/)
