@@ -92,5 +92,5 @@ We welcome contributions to Grilli Restaurant Website! If you'd like to contribu
 ##  License
 ----------
 
-Grilli Restaurant Website is licensed under the [Apache 2.0 License](http://www.apache.org/licenses/)
+Grilli Restaurant Website is licensed under the [Apache 2.0 License](https://www.apache.org/licenses/LICENSE-2.0.txt)
 
