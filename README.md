@@ -2,8 +2,6 @@
 
 ![](preview.png)]
 
-##  About This Repo
-<a href="https://github.com/KasRoudra/github-stats-card" alt="github-stats-card"><img src="https://kasroudra-stats-card.onrender.com/repo?user=prateekraiger&repo=Grilli&theme=darcula&layout=compact"/></a>
 
 **🌐 Live Website:** [Grilli.com](https://prateekraiger.github.io/Grilli/)
 
