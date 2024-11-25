@@ -3,7 +3,7 @@
 ![](preview.png)]
 
 
-**🌐 Live Website:** [Grilli.com](https://prateekraiger.github.io/Grilli/)
+**🌐 Live Website:** [Grilli.com](https://grilli-50z.pages.dev/)
 
 ---
 
